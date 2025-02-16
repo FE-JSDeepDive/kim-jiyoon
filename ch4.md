@@ -69,6 +69,7 @@
     - **카멜 케이스(camelCase)**
     - **스네이크 케이스(snake_case)**
     - **파스칼 케이스(PascalCase)**
-    - **헝가리언 케이스(typeHungarianCase)**  
+    - **헝가리언 케이스(typeHungarianCase)**
+
 *일반적으로 변수/함수 이름 → 카멜 케이스 사용  
 *생성자 함수/클래스 이름 → 파스칼 케이스 사용
