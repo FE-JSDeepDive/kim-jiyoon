@@ -57,14 +57,14 @@
           ```javascript
          var foo = var x;  //SyntaxError
          ```
-    - 완료 값
-      - 크롬 개발자도구에서
-        - 표현식이 아닌 문을 실행하면 → undefined 반환
-          ```javascript
-          var foo = 10; //undefined
-          if(true) 조건문 {} //undefined
-          ```
-        - 표현식인 문을 실행하면 → 평가된 값을 반환
-          ```javascript
-          num = 100; //100
-          ```
+- 완료 값
+  - 크롬 개발자도구에서
+    - 표현식이 아닌 문을 실행하면 → undefined 반환
+      ```javascript
+      var foo = 10; //undefined
+      if(true) 조건문 {} //undefined
+      ```
+    - 표현식인 문을 실행하면 → 평가된 값을 반환
+      ```javascript
+      num = 100; //100
+      ```
